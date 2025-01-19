@@ -1,2 +1,3 @@
 mysql
 src/.env
+redisdata/dump.rdb
