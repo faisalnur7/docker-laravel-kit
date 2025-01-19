@@ -45,7 +45,7 @@ cd docker-laravel-kit
 
 ### Build and Start the Containers
 ```bash
-docker-compose up -d
+docker-compose up -d --build
 ```
 
 ### Access the Application
